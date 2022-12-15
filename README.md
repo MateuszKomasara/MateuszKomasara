@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I'm Mateusz, Thanks for checking out my Profile.
+
 
 <!--
 **MateuszKomasara/MateuszKomasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
