@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Mateusz, Thanks for checking out my Profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MateuszKomasara=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszKomasara)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MateuszKomasara/MateuszKomasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
