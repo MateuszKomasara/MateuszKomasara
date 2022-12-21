@@ -1,7 +1,10 @@
 ### Hi 👋, I'm Mateusz, Thanks for checking out my Profile.
 
+A full stack software engineer from Ontario, Canada.
 
+As a software engineer, I build full stack web applications for my clients. I have always had a keen interest in problem solving using technology,creating products and optimal solutions to aforementioned problems.
 
+I have many interests and spent over a decade living and travelling overseas. This life experience working in a variety of jobs and interacting with a plethora of cultures and personalities has given me an edge in my ability to think outside of the box and to have a greater degree of reference.
 
 
 
