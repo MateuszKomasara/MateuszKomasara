@@ -29,10 +29,10 @@
 <p align="center"> <a href="https://www.github.com/mateuszkomasara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in//mateusz-komasara-88b56b203/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/komasara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
-<b align="center" >My GitHub Stats</b>
 
- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MateuszKomasara&show_icons=true&theme=dark) 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MateuszKomasara&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</div>
 
 <!-- 
 **MateuszKomasara/MateuszKomasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
