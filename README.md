@@ -4,7 +4,7 @@
 <h3 align="center">A Full-Stack Developer from Ontario, Canada.</h3>
 
 
-  <p align="center"> As a software engineer, I build full stack web applications for my clients. I have always had a keen interest in problem solving using technology,creating products and optimal solutions to aforementioned problems. I have many interests and spent over a decade living and travelling overseas. This life experience working in a variety of jobs and interacting with a plethora of cultures and personalities has given me an edge in my ability to think outside of the box and to have a greater degree of reference.</p>
+  <p align="center"> As a community taught software engineer, I build full stack web applications for my clients. I have always had a keen interest in problem solving using technology,creating products and optimal solutions to aforementioned problems. I have many interests and spent over a decade living and travelling overseas. This life experience working in a variety of jobs and interacting with a plethora of cultures and personalities has given me an edge in my ability to think outside of the box and to have a greater degree of reference.</p>
 
 ### <p align="center">Skills</p>
 
@@ -33,6 +33,8 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MateuszKomasara&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </div>
+
+
 
 <!-- 
 **MateuszKomasara/MateuszKomasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
