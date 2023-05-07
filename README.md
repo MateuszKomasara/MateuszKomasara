@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋 My name is Mateusz,</h1>
 
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=software+engineer;community+taught" </p> 
 
-<h3 align="center">A Full-Stack Developer from Ontario, Canada.</h3>
 
-
-  <p align="center"> As a community taught software engineer, I build full stack web applications for my clients. I have always had a keen interest in problem solving using technology,creating products and optimal solutions to aforementioned problems. I have many interests and spent over a decade living and travelling overseas. This life experience working in a variety of jobs and interacting with a plethora of cultures and personalities has given me an edge in my ability to think outside of the box and to have a greater degree of reference.</p>
+  <p align="center"> As a community taught software engineer, I build full stack web applications and have collaborated with talented engineers from around the world. I am fascinated by the ability to solve problems utilizing technology, I also enjoy travelling and spent over a decade living and travelling overseas. This life experience working in a variety of jobs and interacting with a plethora of cultures and personalities has given me an edge in my ability to think outside of the box and to have a greater degree of reference.</p>
 
 ### <p align="center">Skills</p>
 
