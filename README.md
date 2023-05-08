@@ -6,10 +6,17 @@
   <p align="center"> As a community taught software engineer, I build full stack web applications and have collaborated with talented engineers from around the world. I am fascinated by the ability to solve problems utilizing technology, I also enjoy travelling and spent over a decade living and travelling overseas. This life experience working in a variety of jobs and interacting with a plethora of cultures and personalities has given me an edge in my ability to think outside of the box and to have a greater degree of reference.</p>
 
 ### <p align="center">Skills</p>
-
-<img src="images/javascript-155-svgrepo-com.svg" alt="JavaScript Icon"  height="75"/>
-<img src="images/mongodb.svg" alt="mongodv Icon"  height="75"/>
-
+<div align="center">  
+  <img style="margin: 10px" src="images/javascript.svg" alt="JavaScript Icon"  height="75"/>
+  <img style="margin: 10px" src="images/mongodb.svg" alt="mongodv Icon"  height="75"/>
+  <img style="margin: 10px" src="images/node.svg" alt="node Icon"  height="75"/>
+  <img style="margin: 10px" src="images/git.svg" alt="git Icon"  height="75"/>
+  <img style="margin: 10px" src="images/express.svg" alt="express Icon"  height="75"/>
+  <img style="margin: 10px" src="images/react.svg" alt="react Icon"  height="75"/>
+  <img style="margin: 10px" src="images/css3.svg" alt="css Icon"  height="75"/>
+  <img style="margin: 10px" src="images/html5.svg" alt="html Icon"  height="75"/>
+ </div>
+<!--
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -23,7 +30,7 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
-
+-->
 
 ### <p align="center">Socials</p>
 
