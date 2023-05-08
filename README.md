@@ -1,3 +1,7 @@
+<div align="center">
+<img src="images/banner.png" align="center" style="width: 100%"  />
+</div>
+
 <h1 align="center">Hi 👋 My name is Mateusz,</h1>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=software+engineer;community+taught" </p> 
