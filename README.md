@@ -11,14 +11,30 @@
 
 ## <p align="center">Skills</p>
 <div align="center" style="padding-top: 10px">  
-  <img style="margin: 10px" src="images/javascript.svg" alt="JavaScript Icon"  height="75"/>
-  <img style="margin: 10px" src="images/mongodb.svg" alt="mongodv Icon"  height="75"/>
-  <img style="margin: 10px" src="images/node.svg" alt="node Icon"  height="75"/>
-  <img style="margin: 10px" src="images/git.svg" alt="git Icon"  height="75"/>
-  <img style="margin: 10px" src="images/express.svg" alt="express Icon"  height="75"/>
-  <img style="margin: 10px" src="images/react.svg" alt="react Icon"  height="75"/>
-  <img style="margin: 10px" src="images/css3.svg" alt="css Icon"  height="75"/>
-  <img style="margin: 10px" src="images/html5.svg" alt="html Icon"  height="75"/>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img style="margin: 10px" src="images/javascript.svg" alt="JavaScript Icon"  height="75"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img style="margin: 10px" src="images/mongodb.svg" alt="mongodv Icon"  height="75"/>
+  </a>
+<a href="https://nodejs.org/" target="_blank">  
+     <img style="margin: 10px" src="images/node.svg" alt="node Icon"  height="75"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img style="margin: 10px" src="images/git.svg" alt="git Icon"  height="75"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img style="margin: 10px" src="images/express.svg" alt="express Icon"  height="75"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img style="margin: 10px" src="images/react.svg" alt="react Icon"  height="75"/>
+  </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img style="margin: 10px" src="images/css3.svg" alt="css Icon"  height="75"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img style="margin: 10px" src="images/html5.svg" alt="html Icon"  height="75"/>
+  </a>
  </div>
 
 <br>
