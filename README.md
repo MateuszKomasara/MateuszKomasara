@@ -7,7 +7,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=software+engineer;community+taught" </p> 
 
 
-  <p align="center"> As a self-taught software engineer, I specialize in building full-stack web applications and have had the privilege of collaborating with talented engineers from across the globe. I am captivated by the power of technology in solving complex problems. Additionally, I find immense joy in traveling, and for more than a decade, I have resided in various countries, immersing myself in different cultures and embracing diverse perspectives. This rich life experience, coupled with my diverse professional background, has honed my ability to think innovatively and draw upon a broad range of references, giving me a unique edge in problem-solving.</p>
+  <p align="center"> As a self-taught software engineer, I specialize in building full-stack web applications and have had the privilege of collaborating with talented engineers from across the globe. I am captivated by the power of technology in solving complex problems. Additionally, I find immense joy in travelling, and for more than a decade, I have resided in various countries, immersing myself in different cultures and embracing diverse perspectives. This rich life experience, coupled with my diverse professional background, has honed my ability to think innovatively and draw upon a broad range of references, giving me a unique edge in problem-solving.</p>
 
 ## <p align="center">Skills</p>
 <div align="center" style="padding-top: 10px">  
