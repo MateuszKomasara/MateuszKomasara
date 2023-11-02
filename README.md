@@ -66,7 +66,7 @@
 						</a>	
 					</div>
 					<h5>JavaScript, CSS, Bootstrap, React, Node</h5>
-					<p>Check the current air quality wherever you are</p>
+					<p>Check the current air quality in any metropolitan area</p>
 				</div>
 		<!--project 2 -->
 			<td width="50%">
